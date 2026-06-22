@@ -4,11 +4,11 @@ To test Gmail's Compose Email functionality for sending an email with the body "
 
 The testing scope includes:
 
-Recipient field validation
-Subject field validation
-Email body validation
-Email sending functionality
-Draft functionality
+Recipient field validation,
+Subject field validation,
+Email body validation,
+Email sending functionality,
+Draft functionality,
 Deliverables
 
 The attached Excel file contains:
